@@ -1,0 +1,7 @@
+c:\Users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDDTest\bin\Debug\TDDTest.dll
+c:\Users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDDTest\bin\Debug\TDDTest.pdb
+c:\Users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDDTest\bin\Debug\TDD.dll
+c:\Users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDDTest\bin\Debug\TDD.pdb
+c:\Users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDDTest\obj\Debug\TDDTest.csprojResolveAssemblyReference.cache
+c:\Users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDDTest\obj\Debug\TDDTest.dll
+c:\Users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDDTest\obj\Debug\TDDTest.pdb

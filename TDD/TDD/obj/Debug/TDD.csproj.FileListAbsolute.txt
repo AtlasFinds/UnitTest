@@ -1,0 +1,5 @@
+c:\users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDD\bin\Debug\TDD.dll
+c:\users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDD\bin\Debug\TDD.pdb
+c:\users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDD\obj\Debug\TDD.csprojResolveAssemblyReference.cache
+c:\users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDD\obj\Debug\TDD.dll
+c:\users\abdulmaliki\documents\visual studio 2013\Projects\TDD\TDD\obj\Debug\TDD.pdb
