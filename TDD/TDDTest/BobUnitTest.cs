@@ -27,7 +27,7 @@ namespace TDDTest
         public void Test_StubDependency()
         {
             // Arrange 
-            const string param1 = "abcd";
+            const string param1 = "abc";
             const string param2 = "xyz";
             const int expectedResultOne = 1;
             const int expectedResultTwo = 2; 
